@@ -1,6 +1,6 @@
 # Gematria 🪬
 
-ta inutil ainda.
+ta basicamente inutil ainda.
 
 o modo tradicional não funciona e provavelmente é 100% código lixo. Se achou ruim faz melhor ai e me manda pra eu usar depois, honestamente mesmo assim já é mais util que o site <i>gematrix</i> que eu usava entao eu sou mt bom mesmo lol (não sei tomar um chá sem perguntar pro chatgpt)
 
