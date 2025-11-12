@@ -14,4 +14,4 @@ Se o mapping for bem feito posso depois incluir qualquer texto, que eu quier, po
 Seria interessante mostrar as matrizes mas eu preciso entender como elas funcionam nesse caso, como se eu fosse um matematico e não um numerologista... Tambem seria legal, mas mais complexo trancrever o valor do output ou input ou ambos para algum formato geometrico.
 
 # NUMEROS PARA TESTAR:
-- 426 (você sabe respirar?)
+- 426
