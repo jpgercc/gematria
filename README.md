@@ -1,4 +1,4 @@
-# Gematria
+# Gematria 🪬
 
 ta inutil ainda.
 
