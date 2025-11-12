@@ -12,3 +12,6 @@ TODO-LIST:
 Se o mapping for bem feito posso depois incluir qualquer texto, que eu quier, posso trocar depois a versão da torá ou até incluir mais de um arquivo de texto para adicionar mais palavras e contexto, mas tambem fazendo isso perde o proposito do metodo tradicional.
 
 Seria interessante mostrar as matrizes mas eu preciso entender como elas funcionam nesse caso, como se eu fosse um matematico e não um numerologista... Tambem seria legal, mas mais complexo trancrever o valor do output ou input ou ambos para algum formato geometrico.
+
+# NUMEROS PARA TESTAR:
+- 426 (você sabe respirar?)
